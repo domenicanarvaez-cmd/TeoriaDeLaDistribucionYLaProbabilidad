@@ -49,8 +49,8 @@
 
 ## 🧭 Índice del Portafolio
 
-* [🎓 Carátula](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/edit/main/README.md#-car%C3%A1tula)
-* [📚 Contenidos del Portafolio](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/edit/main/README.md#-%C3%ADndice-del-portafolio)
+* [🎓 Carátula](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-car%C3%A1tula)
+* [📚 Contenidos del Portafolio](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-%C3%ADndice-del-portafolio)
     * [📌 Unidad 1: Introducción a la Probabilidad. Modelos Probabilísticos](Unidad1.md)
       * [📊 APE01: Variables Aleatorias y Distribuciones de Probabilidad](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape01-variables-aleatorias-y-distribuciones-de-probabilidad)
       * [🔔 APE02: Distribuciones Muestrales y Teorema del Límite Central](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape02-distribuciones-muestrales-y-teorema-del-l%C3%ADmite-central)
@@ -66,8 +66,8 @@
       * [🏆 Evaluación Final de Unidad](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-evaluaci%C3%B3n-final-de-unidad)
       * [💡 Conclusiones de la Unidad 2](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-conclusiones-de-la-unidad-2)
     * [⬜ Unidad 3: Ley de Grandes Números (próximamente)]
-* [📑 Bibliografía (Formato IEEE)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/edit/main/README.md#-bibliograf%C3%ADa-formato-ieee)
-* [🤖 Declaración de Uso de la IA](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/edit/main/README.md#-declaraci%C3%B3n-de-uso-de-la-ia-generativa)
+* [📑 Bibliografía (Formato IEEE)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-bibliograf%C3%ADa-formato-ieee)
+* [🤖 Declaración de Uso de la IA](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-declaraci%C3%B3n-de-uso-de-la-ia-generativa)
 
 ---
 
