@@ -1,4 +1,4 @@
-[🔙 Volver a la Portada Principal](PortafolioDigital.md)
+[🔙 Volver a la Portada Principal](README.md)
 
 # 🚀 UNIDAD 1: Introducción a la Probabilidad. Modelos Probabilísticos
 💡 ¡El punto de partida de todo análisis estadístico! Esta unidad estableció las bases para modelar la incertidumbre: desde clasificar variables y calcular probabilidades hasta ajustar distribuciones discretas y continuas a escenarios reales. Todo construido con Python sobre casos prácticos de ingeniería y el dataset regional de Loja.
