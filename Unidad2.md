@@ -42,5 +42,5 @@ Examen integrador que consolidó los contenidos de la Unidad 2 en dos componente
 
 ---
 
-## 💡 **Conclusiones de la Unidad 2**
+## 💡 **Conclusión de la Unidad 2**
 La asimetría severa del dataset no impidió la inferencia gracias al TLC. El valor-p no es la probabilidad de que H₀ sea cierta, sino la probabilidad de obtener datos tan extremos asumiendo que H₀ es verdadera. Con casi 3.000 registros, cualquier diferencia produce p≈0, por lo que el coeficiente d de Cohen fue clave para distinguir significancia estadística de significancia práctica. Los cuatro APE formaron un análisis completo y coherente: describir → validar → estimar → decidir, todo aplicado al mismo dataset regional.
