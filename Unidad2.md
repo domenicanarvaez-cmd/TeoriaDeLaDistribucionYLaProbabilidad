@@ -1,4 +1,4 @@
-[🔙 Volver a la Portada Principal](PortafolioDigital.md)
+[🔙 Volver a la Portada Principal](README.md)
 
 # 📊 UNIDAD 2: Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria
 
