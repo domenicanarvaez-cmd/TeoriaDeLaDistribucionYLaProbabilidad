@@ -10,6 +10,11 @@
 
 Tareas diseñadas para aplicar los conocimientos teóricos en escenarios prácticos y controlados.
 
+> [!NOTE]
+> **¿No puedes visualizar los archivos `.ipynb`?**
+> Al hacer clic en los enlaces, Google Drive mostrará el mensaje *"No hay ninguna aplicación instalada para abrir este archivo"* o una vista previa vacía. Para abrirlo correctamente, haz clic en el botón **"Abrir con Google Colaboratory"** que aparece en la parte superior de Drive. El notebook se cargará completo con todo el código y las celdas ejecutables.
+
+
 #### 🔔 APE07: Distribuciones Continuas Notables
 * **🗒️ Descripción:** Se trabajó la distribución Normal sobre el dataset de Loja: el 83.08% de servidores gana entre $460 y $4.144 bajo supuesto de normalidad, pero el test de Shapiro-Wilk (W=0.5988, p=3.22×10⁻⁶³) rechazó esa normalidad, con asimetría de 3.75 causada por sueldos directivos.
 * **🔗 Enlace:** [Ver Tarea APE 7 (ipynb)](https://drive.google.com/file/d/1c2GUKk6Jnk8Qd-goSLBKLJ-Q1asWfuLw/view?usp=drive_link)
