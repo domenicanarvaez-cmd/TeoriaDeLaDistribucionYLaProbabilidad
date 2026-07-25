@@ -49,26 +49,36 @@
 
 ## 🧭 Índice del Portafolio
 
-* [🎓 Carátula](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-car%C3%A1tula)
-* [📚 Contenidos del Portafolio](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-%C3%ADndice-del-portafolio)
+* [🎓 Carátula](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-carátula)
+* [📚 Contenidos del Portafolio](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-índice-del-portafolio)
     * [📌 Unidad 1: Introducción a la Probabilidad. Modelos Probabilísticos](Unidad1.md)
       * [📊 APE01: Variables Aleatorias y Distribuciones de Probabilidad](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape01-variables-aleatorias-y-distribuciones-de-probabilidad)
-      * [🔔 APE02: Distribuciones Muestrales y Teorema del Límite Central](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape02-distribuciones-muestrales-y-teorema-del-l%C3%ADmite-central)
+      * [🔔 APE02: Distribuciones Muestrales y Teorema del Límite Central](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape02-distribuciones-muestrales-y-teorema-del-límite-central)
       * [📐 APE03: Variables Aleatorias Discretas y Continuas](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape03-variables-aleatorias-discretas-y-continuas)
-      * [📈 APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape04-momentos-estad%C3%ADsticos-y-an%C3%A1lisis-de-tendencia-central-con-python)
+      * [📈 APE04: Momentos Estadísticos y Análisis de Tendencia Central con Python](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape04-momentos-estadísticos-y-análisis-de-tendencia-central-con-python)
       * [🎯 APE05: Distribuciones Discretas Notables](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-ape05-distribuciones-discretas-notables)
-      * [💡 Conclusión de la Unidad 1](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-conclusi%C3%B3n-de-la-unidad-1)
-    * [📌 Unidad 2: Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-unidad-2-grupos-de-variables-aleatorias-funciones-de-una-variable-aleatoria)
+      * [⚠️ Principales Dificultades de la Unidad 1]()
+      * [💡 Conclusiones de la Unidad 1](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad1.md#-conclusiones-de-la-unidad-1)
+    * [📌 Unidad 2: Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria](Unidad2.md)
       * [🔔 APE07: Distribuciones Continuas Notables](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-ape07-distribuciones-continuas-notables)
-      * [🔁 APE08: Distribuciones Muestrales y TLC mediante Simulación Estocástica](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-ape08-distribuciones-muestrales-y-tlc-mediante-simulaci%C3%B3n-estoc%C3%A1stica)
-      * [📏 APE09: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-ape09-estimaci%C3%B3n-de-par%C3%A1metros-e-intervalos-de-confianza-z-y-t-de-student)
-      * [🧪 APE10: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-ape10-pruebas-de-hip%C3%B3tesis-param%C3%A9tricas-z-y-t-y-an%C3%A1lisis-del-valor-p)
-      * [🏆 Evaluación Final de Unidad](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-evaluaci%C3%B3n-final-de-unidad)
+      * [🔁 APE08: Distribuciones Muestrales y TLC mediante Simulación Estocástica](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-ape08-distribuciones-muestrales-y-tlc-mediante-simulación-estocástica)
+      * [📏 APE09: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-ape09-estimación-de-parámetros-e-intervalos-de-confianza-z-y-t-de-student)
+      * [🧪 APE10: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-ape10-pruebas-de-hipótesis-paramétricas-z-y-t-y-análisis-del-valor-p)
+      * [🏆 Evaluación Final de Unidad 2](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-evaluación-final-de-unidad)
+      * [⚠️ Principales Dificultades de la Unidad 2]()
       * [💡 Conclusión de la Unidad 2](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad2.md#-conclusiones-de-la-unidad-2)
-    * [⬜ Unidad 3: Ley de Grandes Números (próximamente)]
-* [📑 Bibliografía (Formato IEEE)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-bibliograf%C3%ADa-formato-ieee)
-* [🤖 Declaración de Uso de la IA](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-declaraci%C3%B3n-de-uso-de-la-ia-generativa)
-
+    * [📌 Unidad 3: Ley de Grandes Números](Unidad3.md)
+      * [🔬 APE11: Inferencia Estadística Multigrupo (ANOVA y Tukey)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad3.md#-ape11-inferencia-estadística-multigrupo-anova-de-1-factor-y-pruebas-post-hoc-tukey)
+      * [📉 APE12: Correlación de Pearson y Regresión Lineal Simple (OLS)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad3.md#-ape12-análisis-bivariado-y-predicción-correlación-de-pearson-y-regresión-lineal-simple-ols)
+      * [📊 APE13: Regresión Lineal Múltiple y Diagnóstico de Colinealidad (VIF)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad3.md#-ape13-análisis-predictivo-multivariado-regresión-lineal-múltiple-y-vif)
+      * [🎲 APE14: Regresión Logística y Clasificación Binaria](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad3.md#-ape14-modelado-probabilístico-avanzado-regresión-logística-y-matrices-de-confusión)
+      * [📈 APE15: Curvas ROC, AUC y Validación Cruzada K-Fold](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad3.md#-ape15-evaluación-avanzada-de-modelos-roc-auc-y-validación-cruzada-k-fold)
+      * [🏆 Evaluación Final de Unidad 3](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad3.md#-evaluación-final-de-unidad)
+      * [⚠️ Principales Dificultades de la Unidad 3]()
+      * [💡 Conclusión de la Unidad 3](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/Unidad3.md#-conclusión-de-la-unidad-3)
+* [📑 Bibliografía (Formato IEEE)](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-bibliografía-formato-ieee)
+* [🤖 Declaración de Uso de la IA](https://github.com/domenicanarvaez-cmd/TeoriaDeLaDistribucionYLaProbabilidad/blob/main/README.md#-declaración-de-uso-de-la-ia-generativa)
+  
 ---
 
 ## 📚 Contenidos del Portafolio
@@ -101,11 +111,16 @@ A continuación, se presenta el desglose de las unidades que componen este porta
 
 ---
 
-### ⬜️ Unidad 3: Ley de Grandes Números (próximamente)
+### 📌 Unidad 3: Ley de Grandes Números
 
 >🎯 **Resultado de aprendizaje:** Comprende los conceptos de variable aleatoria multidimensional y distribución de probabilidad asociada, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad.
 
-🔒 Esta unidad se encuentra pendiente de desarrollo. El contenido será añadido al finalizar el período académico.
+¡De la inferencia al modelado predictivo! Esta unidad cierra el ciclo del análisis estadístico profundizando en la comparación multigrupo, la relación entre variables y la predicción. Desde el ANOVA hasta la Regresión Logística y las curvas ROC, se construyeron modelos capaces de clasificar, predecir y autoevaluarse, aplicados al dataset regional del Proyecto Integrador.
+
+> **➡️ Haz clic aquí para ver todo el contenido de la Unidad 3:**
+> ## **[🚀 Acceder a la Unidad 3](Unidad3.md)**
+
+*(Este enlace te llevará a la subcarpeta de la Unidad 3)*
 
 ---
 
