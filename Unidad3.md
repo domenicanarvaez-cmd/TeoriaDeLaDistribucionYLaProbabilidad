@@ -18,37 +18,33 @@ Tareas diseñadas para aplicar los conocimientos teóricos en escenarios prácti
 
 #### 🔬 APE11: Inferencia Estadística Multigrupo: ANOVA de 1 Factor y Pruebas Post-Hoc (Tukey)
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea APE 11 (ipynb)]()
+* **🔗 Enlace:** [Ver Tarea APE 11 (ipynb)](https://drive.google.com/file/d/1GD_CrDPQ25xeo3stS4s__1xq7HEKTPyk/view?usp=drive_link)
 
 #### 📉 APE12: Análisis Bivariado y Predicción: Correlación de Pearson y Regresión Lineal Simple (OLS)
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea APE 12 (ipynb)]()
+* **🔗 Enlace:** [Ver Tarea APE 12 (ipynb)](https://drive.google.com/file/d/1OjOjrxRhsIVa0dcc84VE0SiMaGj5Nu-E/view?usp=drive_link)
 
 #### 📊 APE13: Análisis Predictivo Multivariado: Regresión Lineal Múltiple y VIF
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea APE 13 (ipynb)]()
+* **🔗 Enlace:** [Ver Tarea APE 13 (ipynb)](https://drive.google.com/file/d/1cpI5ZiOF_AIJYvq-3UYfGJmg2qeQc5TO/view?usp=sharing)
 
 #### 🎲 APE14: Modelado Probabilístico Avanzado: Regresión Logística y Matrices de Confusión
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea APE 14 (ipynb)]()
+* **🔗 Enlace:** [Ver Tarea APE 14 (ipynb)](https://drive.google.com/file/d/1dhIZL5A6k8xake0hJOLHHeMRlnp_rhZw/view?usp=drive_link)
 
 #### 📈 APE15: Evaluación Avanzada de Modelos: ROC, AUC y Validación Cruzada K-Fold
 * **🗒️ Descripción:** 
-* **🔗 Enlace:** [Ver Tarea APE 15 (ipynb)]()
+* **🔗 Enlace:** [Ver Tarea APE 15 (ipynb)](https://drive.google.com/file/d/1Uok_8EgxTy8t-ZQbVqWk0I7tsESk3p7Y/view?usp=drive_link)
 
 ---
 
 ### 🏆 Evaluación Final de Unidad
 
-Examen integrador que consolidó los contenidos de la Unidad 3 mediante dos componentes: un documento técnico en Jupyter Notebook y un video de defensa oral, ambos centrados en las simulaciones algorítmicas desarrolladas a lo largo de la unidad.
+Examen integrador que consolidó los contenidos de la Unidad 3 mediante un componente centrado en las simulaciones algorítmicas desarrolladas a lo largo de la unidad.
 
-#### 📓 Componente 1 — Documento Técnico (Jupyter Notebook)
-* **🗒️ Descripción:** Notebook del examen final con demostración computacional del Teorema del Límite Central aplicando simulación de Monte Carlo y remuestreo estocástico. Incluye fundamentación teórica en LaTeX, convergencia de distribuciones asimétricas a la Normal, y tres casos de aplicación real en Computación: servidores, Machine Learning y redes de telecomunicaciones.
-* **🔗 Enlace:** [Ver Notebook del Examen Final (ipynb)](https://drive.google.com/file/d/1OHwjdN56P5cCQJrxm04Azzeh3_cm8ygH/view?usp=drive_link)
-
-#### 🎬 Componente 2 — Video de Defensa
-* **🗒️ Descripción:** Video explicativo (5–7 minutos) demostrando en vivo la ejecución del código, la convergencia visual a la Normal y la aplicación del TLC en tres escenarios reales de la Computación moderna.
-* **🔗 Enlace:** [Ver Video de Defensa]()
+#### 📓 Documento Técnico
+* **🗒️ Descripción:** 
+* **🔗 Enlace:** [Ver documento del Examen Final]()
 
 ---
 
