@@ -47,5 +47,19 @@ Examen integrador que consolidó los contenidos de la Unidad 2 en dos componente
 
 ---
 
+## ⚠️ Principales Dificultades de la Unidad 2
+
+* **Interpretación del valor-p:** El error más recurrente fue confundir el valor-p con "la probabilidad de que H₀ sea cierta". Comprender que mide la compatibilidad de los datos con H₀ —y no la verdad de la hipótesis— requirió revisión repetida y ejemplos concretos con el dataset.
+
+* **Elección entre Z y T:** Decidir cuándo usar cada estadístico generó confusión inicial. La clave fue interiorizar que T aplica cuando la varianza poblacional es desconocida y se estima con s, mientras que Z es válido cuando σ es conocida o n es muy grande.
+
+* **Homogeneidad de varianzas (Levene):** En el A/B Testing, entender que antes de elegir el t-test hay que verificar el supuesto de varianzas iguales no era intuitivo. Implementar la lógica `if/else` automática basada en el p-valor de Levene ayudó a sistematizar esa decisión.
+
+* **Significancia estadística vs. práctica:** Con n=2.883, prácticamente cualquier diferencia producía p≈0. Aprender a complementar el valor-p con el intervalo de confianza y el coeficiente d de Cohen fue el aprendizaje más valioso y menos evidente de la unidad.
+
+* **Limpieza del dataset real:** Los nombres de columna del archivo LOTAIP contenían espacios especiales `\xa0` invisibles que causaban `KeyError` al acceder directamente. Identificar y resolver este problema fue un obstáculo técnico inesperado que consumió tiempo de depuración.
+
+---
+
 ## 💡 **Conclusión de la Unidad 2**
 La asimetría severa del dataset no impidió la inferencia gracias al TLC. El valor-p no es la probabilidad de que H₀ sea cierta, sino la probabilidad de obtener datos tan extremos asumiendo que H₀ es verdadera. Con casi 3.000 registros, cualquier diferencia produce p≈0, por lo que el coeficiente d de Cohen fue clave para distinguir significancia estadística de significancia práctica. Los cuatro APE formaron un análisis completo y coherente: describir → validar → estimar → decidir, todo aplicado al mismo dataset regional.
