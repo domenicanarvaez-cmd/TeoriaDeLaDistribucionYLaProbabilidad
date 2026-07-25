@@ -34,5 +34,19 @@ Tareas diseñadas para aplicar los conocimientos teóricos en escenarios prácti
 
 ---
 
+## ⚠️ Principales Dificultades de la Unidad 1
+
+* **Distinguir variable discreta de continua en casos límite:** Clasificar variables como el número de conexiones a un servidor (discreta) vs. el tiempo de respuesta (continua) fue claro en teoría, pero en casos reales del dataset de Loja surgieron dudas sobre cómo tratar variables que podían interpretarse de ambas formas.
+
+* **Construcción manual de la PMF y CDF:** Calcular y graficar la función de masa de probabilidad y la función de distribución acumulada sin usar atajos de librería fue el primer contacto real con la formalización matemática de la probabilidad, y requirió entender la diferencia entre P(X=x) y P(X≤x) que no siempre resultó intuitiva.
+
+* **Parametrización correcta de cada distribución:** Cada distribución tiene sus propios parámetros con interpretaciones distintas — n y p en Binomial, λ en Poisson, μ y σ en Normal. Confundir λ como media con λ como tasa, o usar σ donde se esperaba σ², generó errores silenciosos en los cálculos que no lanzaban excepciones pero producían resultados incorrectos.
+
+* **Aproximación Binomial→Poisson:** Entender bajo qué condiciones (n grande, p pequeño, λ=np constante) la Binomial se aproxima a la Poisson no fue inmediato. La demostración numérica del APE05 —con diferencia de apenas 6.3×10⁻⁴— fue lo que terminó de consolidar ese concepto de forma práctica.
+
+* **Interpretación del skewness y kurtosis:** Calcular los momentos estadísticos con NumPy fue técnicamente sencillo, pero interpretar qué significa skewness=3.75 en el contexto salarial del Municipio de Loja —que hay una minoría de sueldos muy altos que jalan la media hacia arriba— requirió conectar el número con la realidad del dataset, algo que no se aprende solo con la fórmula.
+
+---
+
 ## 💡 Conclusión de la Unidad 1
 Clasificar correctamente la variable antes de elegir la distribución es el paso más crítico — aplicar el modelo incorrecto invalida cualquier resultado. La diferencia entre discreta (probabilidad en puntos) y continua (área bajo la curva) no es solo conceptual sino operativa. Los parámetros x̄=$713.81 y s=$265.10 del dataset de Loja ya anticipaban la asimetría confirmada en la Unidad 2. La aproximación Binomial→Poisson evidencia que las distribuciones están conectadas, lo que permite elegir el modelo más conveniente sin memorizar fórmulas aisladas.
