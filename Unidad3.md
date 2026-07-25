@@ -14,26 +14,24 @@ Tareas diseñadas para aplicar los conocimientos teóricos en escenarios prácti
 > **¿No puedes visualizar los archivos `.ipynb`?**
 > Al hacer clic en los enlaces, Google Drive mostrará el mensaje *"No hay ninguna aplicación instalada para abrir este archivo"* o una vista previa vacía. Para abrirlo correctamente, haz clic en el botón **"Abrir con Google Colaboratory"** que aparece en la parte superior de Drive. El notebook se cargará completo con todo el código y las celdas ejecutables.
 
----
-
 #### 🔬 APE11: Inferencia Estadística Multigrupo: ANOVA de 1 Factor y Pruebas Post-Hoc (Tukey)
-* **🗒️ Descripción:** 
+* **🗒️ Descripción:** Se aplicó ANOVA de 1 factor sobre la variable Remuneración Mensual Unificada segmentada por los 4 regímenes laborales del dataset de Loja (LOSEP=1425, Código de Trabajo=1308, LOSEP-SOC=139, LOSEP-CONCEJAL=11), obteniendo F=22.61 y p=1.24e-08, rechazando H₀. La prueba Post-Hoc de Tukey identificó diferencias significativas entre los pares Código de Trabajo vs LOSEP (p-ajustado=0.0000), entre otros. Se verificó el supuesto de homogeneidad de varianzas con Levene y se discutió Kruskal-Wallis como alternativa no paramétrica cuando el supuesto no se cumple.
 * **🔗 Enlace:** [Ver Tarea APE 11 (ipynb)](https://drive.google.com/file/d/1GD_CrDPQ25xeo3stS4s__1xq7HEKTPyk/view?usp=drive_link)
-
+  
 #### 📉 APE12: Análisis Bivariado y Predicción: Correlación de Pearson y Regresión Lineal Simple (OLS)
-* **🗒️ Descripción:** 
+* **🗒️ Descripción:** Se calculó la Correlación de Pearson entre la Décimo Tercera Remuneración y la Remuneración Mensual Unificada del dataset de Loja, obteniendo r=0.9646 (p≈0) — correlación positiva muy fuerte. El modelo OLS ajustado alcanzó R²=0.930, explicando el 93% de la variabilidad salarial. La predicción para un Décimo Tercero de USD 600 (fuera del dominio observado) estimó una Remuneración Mensual de USD 7,014.47, evidenciando el riesgo de extrapolación. El diagnóstico de residuos con Shapiro-Wilk (W=0.5733, p=2.21e-64) rechazó su normalidad, detectando heterocedasticidad en patrón de abanico.
 * **🔗 Enlace:** [Ver Tarea APE 12 (ipynb)](https://drive.google.com/file/d/1OjOjrxRhsIVa0dcc84VE0SiMaGj5Nu-E/view?usp=drive_link)
 
 #### 📊 APE13: Análisis Predictivo Multivariado: Regresión Lineal Múltiple y VIF
-* **🗒️ Descripción:** 
+* **🗒️ Descripción:** Se ajustó un modelo de Regresión Lineal Múltiple (OLS) con tres predictores del dataset de Loja: Décimo Tercera (X1), Horas Suplementarias (X2) e Ingresos Adicionales (X3). El diagnóstico de multicolinealidad con VIF reveló que X2 (VIF=11.95) y X3 (VIF=13.86) superan el umbral crítico de 10, indicando colinealidad problemática. Se demostró que incluir la Remuneración Anual como predictor adicional eleva el VIF drásticamente, y que el R²=1.0 persistente en el modelo regional es señal de una relación funcional entre variables más que de un modelo genuinamente predictivo.
 * **🔗 Enlace:** [Ver Tarea APE 13 (ipynb)](https://drive.google.com/file/d/1cpI5ZiOF_AIJYvq-3UYfGJmg2qeQc5TO/view?usp=sharing)
 
 #### 🎲 APE14: Modelado Probabilístico Avanzado: Regresión Logística y Matrices de Confusión
-* **🗒️ Descripción:** 
+* **🗒️ Descripción:** Se implementó un clasificador binario de Regresión Logística para predecir si un empleado del Municipio de Loja tiene remuneración alta (sobre la media de $713.81). El modelo logró accuracy=0.9993 con umbral=0.50, pero el diagnóstico detectó cuasi-separación completa y fuga de datos (data leakage) producida por la variable Total Ingresos Adicionales — matemáticamente derivada de la variable respuesta. Se analizó el impacto del umbral: bajarlo de 0.50 a 0.20 reduce los falsos negativos pero dispara los falsos positivos. El modelo simulado de temperatura de CPU vs. caída de servidor alcanzó accuracy=0.73, más representativo de un escenario real.
 * **🔗 Enlace:** [Ver Tarea APE 14 (ipynb)](https://drive.google.com/file/d/1dhIZL5A6k8xake0hJOLHHeMRlnp_rhZw/view?usp=drive_link)
 
 #### 📈 APE15: Evaluación Avanzada de Modelos: ROC, AUC y Validación Cruzada K-Fold
-* **🗒️ Descripción:** 
+* **🗒️ Descripción:** Se construyeron curvas ROC para los tres modelos trabajados. El modelo simulado de servidor obtuvo AUC=0.814 — capacidad discriminativa genuina. El modelo regional original marcó AUC=0.998, pero la validación cruzada K-Fold (K=5) confirmó el diagnóstico de fuga de datos: al eliminar la variable contaminada, el AUC cayó a 0.628 (±0.013), revelando que la relación real entre horas suplementarias y nivel salarial es débil. El modelo simulado resultó estable con AUC promedio=0.793 (±0.040). El hallazgo central de la práctica fue que un AUC perfecto es una señal de alarma, no de éxito.
 * **🔗 Enlace:** [Ver Tarea APE 15 (ipynb)](https://drive.google.com/file/d/1Uok_8EgxTy8t-ZQbVqWk0I7tsESk3p7Y/view?usp=drive_link)
 
 ---
